@@ -9,10 +9,11 @@ Two persons interactive console game.
 
 Just launch with
 
-clojure -M clore.clj or
+clojure -M core.clj 
+or
 bb core.clj
 
-be sure you install the Clojure or babashka before. It works on every platform supported by Clojure (Windows, MacOS, Linux).
+be sure you install the Clojure or Babashka before. It works on every platform supported by Clojure (Windows, MacOS, Linux).
 
 ## Current limitations
 
