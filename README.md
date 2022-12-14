@@ -10,11 +10,13 @@ Two persons interactive console game.
 Just launch with
 
 clojure -M core.clj 
+
 or
+
 bb core.clj
 
 be sure you install the Clojure or Babashka before. It works on every platform supported by Clojure (Windows, MacOS, Linux).
 
 ## Current limitations
 
-The right diagonale from a3 to c1 is not tested yet.
+The right diagonal from a3 to c1 is not tested yet.
